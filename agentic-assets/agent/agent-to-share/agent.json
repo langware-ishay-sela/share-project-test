@@ -13,6 +13,6 @@
   "enabled": true,
   "intro": "",
   "auto_launch": true,
-  "auto_launch_prompt": "",
-  "version": 3
+  "auto_launch_prompt": "Display index.html to the user via the flow show command",
+  "version": 4
 }
